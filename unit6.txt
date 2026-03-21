@@ -1,0 +1,81 @@
+brave, dapper, moedig
+generous, gul, vrijgevig
+honest, eerlijk, oprecht
+kind, lief, aardig, vriendelijk
+lazy, lui
+quiet, rustig, stil
+shy, verlegen, bedeesd, terughoudend
+dishonest, oneerlijk, vals
+extroverted, extravert, naar buiten gekeerd
+hard-working, ijverig, hardwerkend
+unkind, onaardig, grof, onvriendelijk
+mean, gemeen, slecht
+serious, ernstig
+talkative, praatziek, die graag praat
+cowardly, laf
+get into trouble, in de problemen raken, in moeilijkheden raken
+arrest, arresteren
+punish, straffen, iemand een straf opleggen
+(pay a) fine, (een) boete (betalen)
+(appear in) court, (voor de) rechtbank (verschijnen)
+commit (a crime), (een) misdaad (begaan/plegen)
+charge, beschuldigen
+(spend time in) prison, (een) gevangenisstraf (uitzitten)
+happy, gelukkig, blij, tevreden
+unhappy, ongelukkig, bedroefd
+responsible, verantwoordelijk
+irresponsible, onverantwoordelijk
+unthinkable, ondenkbaar, onvoorstelbaar
+legal, wettelijk, legaal
+illegal, onwettelijk, illegaal
+polite, beleefd
+impolite, onbeleefd
+possible, mogelijk
+impossible, onmogelijk
+usual, gewoon, gebruikelijk
+unusual, ongewoon, ongebruikelijk
+mature, volwassen
+immature, onvolwassen
+perfect, perfect, volmaakt, volkomen
+imperfect, onvolmaakt, onvolkomen
+rational, rationeel, logisch
+irrational, irrationeel, absurd, onlogisch
+literate, geletterd, die kan lezen en schrijven
+illiterate, ongeletterd, analfabeet
+warm, warm
+blue, blauw
+narrow, smal, nauw, eng
+grey, grijs, grauw
+sweet-scented, geurig, welriekend
+drab, saai, kleurloos
+cold, koud
+green, groen
+glass-clear, glashelder
+bully, pesten
+cheat, vals spelen, bedrog plegen
+expel, (van school) sturen, wegzenden
+fight, vechten
+(give a) detention, (laten) nablijven
+(give a) warning, (een) waarschuwing (geven), waarschuwen
+play truant, spijbelen
+suspend, schorsen
+swear, vloeken
+vandalize, plunderen, vernielen
+classroom, klaslokaal
+head teacher, schoolhoofd, directeur
+noticeboard, prikbord, aanplakbord
+playground, speelplaats
+playing field, sportterrein, speelterrein
+school canteen, schoolkantine
+school uniform, schooluniform
+science laboratory, wetenschappelijk laboratorium
+sports hall, sportzaal
+staffroom, leraarskamer
+textbook, handboek
+timetable, lesrooster
+increase, stijgen, toenemen, groeien
+estimate, schatten
+double, verdubbelen
+multiply, vermenigvuldigen, vermeerderen
+calculate, berekenen
+decrease, dalen, afnemen, verminderen
